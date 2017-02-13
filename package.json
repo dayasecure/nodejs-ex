@@ -15,6 +15,6 @@
     "parse-server": "^2.3.3"
   },
   "engines": {
-    "node": ">=4.6"
+    "node": ">=6.6"
   }
 }
